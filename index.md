@@ -10,3 +10,5 @@ The application accesses Google Health data using two read-only permissions:
 The data is used only to retrieve and analyze the authorized user's own activity, exercise, heart-rate, HRV, and related health metrics within her personal Hermes workspace.
 
 Ingrid Health cannot modify or delete Google Health data. It has no advertising, marketing, public registration, or data-sale functionality.
+
+[Privacy Policy](privacy/)
