@@ -1,3 +1,7 @@
+---
+permalink: /privacy/
+---
+
 # Privacy Policy for Ingrid Health
 
 Last updated: September 12, 2026
